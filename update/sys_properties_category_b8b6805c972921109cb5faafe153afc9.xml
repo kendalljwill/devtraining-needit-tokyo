@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-08 20:50:14</sys_created_on>
+        <sys_id>b8b6805c972921109cb5faafe153afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_b8b6805c972921109cb5faafe153afc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-08 20:50:14</sys_updated_on>
+        <title><![CDATA[<p><img style="align: baseline;" title="" src="sys_attachment.do?sys_id&#61;3ce6c05c972921109cb5faafe153af46" alt="" width="600" height="600" align="baseline" border="" hspace="" vspace="" /></p>
+<p> </p>
+<p>My new pet, Pepe</p>
+<div id="highlighter--hover-tools" style="display: none;">
+<div id="highlighter--hover-tools--container">
+<div class="highlighter--icon highlighter--icon-copy" title="Copy"> </div>
+<div class="highlighter--icon highlighter--icon-change-color" title="Change Color"> </div>
+<div class="highlighter--icon highlighter--icon-delete" title="Delete"> </div>
+</div>
+</div>
+<div id="highlighter--hover-tools" style="display: none;">
+<div id="highlighter--hover-tools--container">
+<div class="highlighter--icon highlighter--icon-copy" title="Copy"> </div>
+<div class="highlighter--icon highlighter--icon-change-color" title="Change Color"> </div>
+<div class="highlighter--icon highlighter--icon-delete" title="Delete"> </div>
+</div>
+</div>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=b8b6805c972921109cb5faafe153afc9"/>
+</record_update>
